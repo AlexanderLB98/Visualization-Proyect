@@ -10,7 +10,6 @@ Welcome to the **Visualization-Project** repository. This project is designed to
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Contributions](#contributions)
 - [License](#license)
 
 ## Description
@@ -19,10 +18,14 @@ Welcome to the **Visualization-Project** repository. This project is designed to
 
 ## Features
 
-- Interactive visualizations
-- User-friendly interface
-- Supports various data formats
-- Real-time data updates
+- Preprocesses stock data to include daily returns, moving averages, and seasonal information.
+- Displays basic dataset information.
+- Creates pie charts to visualize distribution by country, market, and region.
+- Allows region-based filtering and displays bar charts for average daily returns by company, season, market, and country.
+- Provides country-based filtering and displays bar charts for average daily returns by company, season, market, and country.
+- Supports market-based filtering and displays bar charts for average daily returns by company, season, and country.
+- Allows for company-specific analysis with interactive date range selection and multiple metric display options.
+- Includes an interactive map to visualize sales volume by country over a selected date range.
 
 ## Requirements
 
